@@ -1,1 +1,1 @@
-this file will notify me throw email
+this file will notify me throw email , it will notify once build successfully!
